@@ -1,0 +1,110 @@
+date_of_order,order_id,number_of_items,total_price,used_discount_code,customer_name,customer_age,list_of_items
+2019-01-02,101,4,48.52,TRUE,Michael Jones,35,To Kill a Mockingbird|Invisible Man|Catch-22|The Great Gatsby
+2019-01-03,102,1,13.56,FALSE,Regina Miller,13,Harry Potter and the Chamber of Secrets
+2019-01-06,103,2,28.32,FALSE,Tim Salazar,24,Programming in C|C++ For Dummies
+2019-01-10,104,3,34.17,TRUE,Jayden-Lee Lin,18,1984|Little Women|Moby Dick
+2019-01-12,105,2,14.78,FALSE,Kaiya Hurst,20,All American Girl|Animals Make Us Human
+2019-01-15,106,1,3.80,FALSE,Ella-Grace Eastwood,21,Fun with Peanuts
+2019-01-15,107,1,7.86,FALSE,Portia Boone,78,The Hobbit
+2019-01-18,108,3,25.67,FALSE,Alisha Hudson,19,"The Giver|A Tale of Two Cities|The Lion, the Witch, and the Wardrobe"
+2019-01-21,109,4,54.98,FALSE,Georgie Hills,20,The Da Vinci Code|One Hundred Years of Solitude|Black Beauty|Charlotte's Web
+2019-01-24,110,2,75.69,FALSE,Tyrese Dickson,21,Gray's Anatomy|Giving Medications
+2019-01-26,111,3,35.95,FALSE,Brody Mcmillan,43,"My Home Workbook|Basements, Attics, and Garages|Home Plumbing"
+2019-01-31,112,1,21.02,TRUE,Michael Jones,35,The Catcher in the Rye
+2019-02-02,201,2,23.65,TRUE,Carlos Espinoza,24,Complete Guide to Gardening|Green Grass Magic
+2019-02-02,202,3,64.09,TRUE,Carlos Espinoza,24,Backyard Problem Solver|Terrific Garden Tonics|Big Book of Great Garden Tips and Tonics
+2019-02-02,203,1,9.87,TRUE,Glyn Hogan,19,War and Peace
+2019-02-02,204,1,5.99,TRUE,Debra Konch,45,Child of the Wolves
+2019-02-03,205,1,5.64,TRUE,Ellise Curry,18,The Kite Runner
+2019-02-03,206,2,33.98,TRUE,Chantel Simon,20,Falling Up|The Giving Tree
+2019-02-03,207,4,56.67,TRUE,Milan Lott,22,Gone Girl|The Girl on the Train|The Girl with the Dragon Tattoo|The Shack
+2019-02-04,208,2,15.43,TRUE,Michael Jones,35,Who Moved My Cheese?|What Color is Your Parachute?
+2019-02-04,209,4,76.55,TRUE,Drew Olsen,22,Flawless Consulting|The Power of Thanks|My Losing Season|Resisting Happiness
+2019-02-05,210,1,10.99,FALSE,Kain Castaneda,18,The Fault in Our Stars
+2019-02-07,211,1,15.44,FALSE,Michael Jones,35,The Godfather
+2019-02-10,212,-2,100.00,FALSE,NotARealCustomer,-5,ThisDataIsBad
+2019-02-11,213,4,68.90,TRUE,Debra Konch,45,Amethyst Heart|A Thousand Splendid Suns|Soccer for Dummies|A Friend Like Phoebe
+2019-02-12,214,2,15.68,FALSE,Reeva Ramos,19,The Wedding|Sisters
+2019-02-14,215,1,30.99,FALSE,Ruth Beach,20,Africa's Animal Kingdom
+2019-02-15,216,1,17.87,FALSE,Codie Acevedo,20,The Hitchhiker's Guide to the Galaxy
+2019-02-16,217,1,11.87,FALSE,Safa Fraser,43,Make it a Winning Life
+2019-02-17,218,3,34.59,TRUE,Addie Dotson,18,The Freshman Survival Guide|Be True to Yourself|A Light in the Attic
+2019-02-18,219,5,101.99,TRUE,Haley Petty,68,"Oh, the Places You'll Go|You're Only Old Once|Sleep Book|My Book about ME|The Cat in the Hat"
+2019-02-20,220,2,50.97,TRUE,Taylar Bowen,66,The Complete Tales of Edgar Allen Poe|The Tell-Tale Heart
+2019-02-22,221,1,8.37,FALSE,Adriana Churchill,19,Animal Farm
+2019-02-24,222,3,98.65,TRUE,Carol McKnight,18,A Game of Thrones|A Clash of Kings|A Storm of Swords
+2019-02-24,223,2,23.90,FALSE,Jessica Humphreys,19,The Adventures of Huckleberry Finn|The Adventures of Tom Sawyer
+2019-02-25,224,1,13.97,FALSE,Ammar Prosser,30,What to Expect When You're Expecting
+2019-02-28,225,4,25.99,FALSE,Sumaya Levy,19,The Rescue|The Choice|Message in a Bottle|The Notebook
+2019-03-01,301,4,46.93,TRUE,Dawson Grey,35,The Night Before Christmas|Zin! Zin! Zin! A Violin|Summer of the Stallion|The Writing Life
+2019-03-03,302,3,101.97,FALSE,Lacey Daly,22,Dungeon's and Dragons: Player's Handbook|Dungeon's and Dragons's:Dungeon Masters Guide|Dungeon's and Dragons:Monster Manual
+2019-03-04,303,2,35.97,TRUE,Justine Luna,20,The Human Record|Donald Duk
+2019-03-06,304,1,25.67,TRUE,Hamid Quintero,43,Become a Better You
+2019-03-07,305,1,23.49,FALSE,Brett Joyner,19,Complete Book of Women's Running
+2019-03-10,306,1,4.99,TRUE,Magdalena Bradley,18,The Wave
+2019-03-11,307,2,19.89,FALSE,Carter Bautista,18,The Canon|The Joy Luck Club
+2019-03-12,308,1,24.87,FALSE,Talha Burton,30,30 Minute Get Real Meals
+2019-03-15,309,2,30.00,TRUE,Erica Frey,19,Chicken Soup for the College Soul|Chicken Soup for the Pet Lover's Soul
+2019-03-20,310,4,45.99,FALSE,Mary Timmons,20,Riding the Bus with My Sister|Rafa's Dog|A Separate Peace|The Human Record
+2019-03-24,311,2,25.95,FALSE,Polyanna Ibarra,19,A Tale of Two Cities|Inventing Human Rights
+2019-03-31,312,4,58.79,TRUE,Catrina Powers,18,The Farming of Bones|Praying at the Sweetwater Motel|The Glass Menagerie|The River is Rising
+2019-04-01,401,1,10.90,TRUE,Josie Fenton,20,Dogland
+2019-04-02,402,1,15.96,FALSE,Teri Sellers,14,Lafcadio
+2019-04-02,403,100000000000000,5.00,TRUE,ASneakyCustomer,-5,ThisDataIsBad
+2019-04-19,404,3,31.90,TRUE,George Ponce,18,Shantytown Kid|Wool|At First Sight
+2019-04-19,405,4,50.67,TRUE,Hanan Wheeler,16,"Love, Rosie|P.S. I Love You| TTFN| All-American Girl"
+2019-04-19,406,5,105.89,TRUE,Alba Bartlett,35,Invisible Man|Persian Letters|The Misanthrope and Other Plays|Candide|This I Believe
+2019-04-21,407,2,26.90,FALSE,Blair Mansell,17,This Boy's Life|Al Capone Does My Shirts
+2019-04-23,408,2,40.89,FALSE,Devan Allan,18,The Trojan War|Ye Gods!
+2019-04-24,409,1,15.99,TRUE,Martha Friedman,18,Strange Tales of the Civil War
+2019-04-25,410,1,9.90,FALSE,Skye Burns,20,Catch-22
+2019-04-25,411,1,15.60,TRUE,Momina Chavez,21,The Power of One
+2019-04-25,412,1,14.89,FALSE,Meredith Paterson,25,To Life
+2019-04-27,413,3,50.87,TRUE,Sahib Forster,18,The Oedipus Cycle|Things Fall Apart|Modern European History
+2019-04-28,414,4,59.85,TRUE,Adrian Stamp,18,The Longest Ride|The Best of Me|Hollywood Intuition|Twilight
+2019-04-28,415,2,15.89,FALSE,Abubakar Schmidt,16,Fences|The Cat Ate My Gymsuit
+2019-04-29,416,1,9.99,FALSE,Jimmy Mac,19,The Princess Academy
+2019-04-29,417,2,15.67,FALSE,Rhys Sanchez,21,Take Me Out|The Laramie Project
+2019-04-30,418,1,10.49,TRUE,Frederick O'Connor,20,Fifth of July
+2019-05-01,501,3,35.90,FALSE,Theodor Neville,18,The Call of the Wild|The Incredible Journey|The Scarlet Letter
+2019-05-01,502,2,25.69,FALSE,Ricardo John,22,Kindred|Pride and Prejudice
+2019-05-02,503,3,34.90,TRUE,Casey Ritter,18,"The Metamorphosis|Roll of Thunder, Hear My Cry|The White Stallion"
+2019-05-03,504,2,30.00,TRUE,Siya Bonilla,19,MacBeth|Romeo and Juliet
+2019-05-03,505,1,15.90,FALSE,Shahid Anderson,18,Hamlet
+2019-05-05,506,1,9.89,TRUE,Maddox Brennan,13,Where the Wild Things Are
+2019-05-05,507,2,15.60,FALSE,Kiara McKinney,20,The Book Theif|The Horse Whisperer
+2019-05-06,508,1,10.50,TRUE,Alice Mueller ,21,The Outsiders
+2019-05-07,509,1,10.79,FALSE,Lorenzo Salgado,18,The Grapes of Wrath
+2019-05-08,510,3,23.90,FALSE,Lottie Molina,19,A Wrinkle in Time|Long Walk to Freedom|The Old Man and the Sea
+2019-05-08,511,1,14.90,FALSE,Faizah Bird,22,The Divine Comedy
+2019-05-09,512,3,60.88,TRUE,Jodie Whittle,35,Becoming|Diana:Her True Story|The Help
+2019-05-10,513,2,25.00,FALSE,Amaya Hirst,21,The Front Runner|Life of Pi
+2019-05-10,514,2,25.00,TRUE,Cali Callaghan,19,Farenheit 451|The Goal
+2019-05-10,515,2,25.00,FALSE,Katerina Burch,22,Dream of the Red Chamber|And Then There Were None
+2019-05-11,516,1,20.95,TRUE,Maisie Dodson,31,Don Quixote
+2019-05-11,517,2,40.00,TRUE,Dwayne Lara,15,The Lord of the Rings|Harry Potter and the Sorcerer's Stone
+2019-05-11,518,2,20.00,FALSE,Anya Stacey,14,Alice's Adventures in Wonderland|The Adventures of Pinocchio
+2019-05-15,519,2,35.90,TRUE,Brendan Arellano,22,The Alchemist|Think and Grow Rich
+2019-05-17,520,2,39.77,TRUE,Marsha Armstrong,95,The Bridges of Madison County|The Adventures of Sherlock Holmes
+2019-05-18,521,3,45.67,TRUE,Caelan Hunter,20,One Hundred Years of Solitude|Heidi's Years of Living and Travel|Anne of Green Gables
+2019-05-19,522,1,10.90,FALSE,Phoebe Rayner,25,"20,000 Leagues Under the Sea"
+2019-05-19,523,1,8.70,FALSE,Morgan Melia,20,Moby Dick
+2019-05-22,524,1,15.60,FALSE,Stuart Abbott,19,The Odyssey
+2019-05-23,525,4,50.68,TRUE,Alexandra Spencer,72,Crime and Punishment|War and Peace|The Divine Comedy|Wuthering Heights
+2019-05-25,526,1,11.99,FALSE,Kelly Zavala,21,To the Lighthouse
+2019-05-25,527,2,18.90,FALSE,Chester Kirkland,28,The Sound and the Fury|Nineteen Eighty Four
+2019-05-27,528,3,35.90,FALSE,Amritpal Kline,18,The Iliad|Anna Karenina|Middlemarch
+2019-05-28,529,2,26.97,FALSE,Jayce Knights,21,Heart of Darkness|The Grapes of Wrath
+2019-05-29,530,3,30.60,TRUE,Polly Houston,21,Great Expectations|Gulliver's Travels|To Kill a Mockingbird
+2019-05-30,531,3,34.59,FALSE,Chatelle Burks,19,"Absalon, Absalom!|Beloved|The Stranger"
+2019-05-30,532,3,59.09,TRUE,Lewis Smith,85,Jane Eyre|The Trial|The Sun Also Rises
+2019-06-03,601,1,20.00,FALSE,Marcus Hunter,40,The Complete Turtle Trader
+2019-06-04,602,2,57.83,FALSE,Louisa Ambrose,62,Lincoln in the Bardo|Lincoln in the Bardo
+2019-06-10,603,1,17.63,TRUE,Peggy Sassafras,64,What Color is Your Parachute
+2019-06-15,604,10,543.86,TRUE,Bobby G. Ricky,75,Encyclopedia Brittanica Volume 1|Encyclopedia Brittanica Volume 2|Encyclopedia Brittanica Volume 3|Encyclopedia Brittanica Volume 4|Encyclopedia Brittanica Volume 5|Encyclopedia Brittanica Volume 6|Encyclopedia Brittanica Volume 7|Encyclopedia Brittanica Volume 8|Encyclopedia Brittanica Volume 9|Encyclopedia Brittanica Volume 10
+2019-06-20,605,1,6.99,FALSE,Anthony Ventimiglia,57,Elements of Style
+2019-06-20,606,2,15.80,TRUE,Ruby Roberts,31,What to Expect When You're Expecting|The Expectant Father
+2019-06-22,607,2,21.50,TRUE,Guillermo Hernandez,15,Harry Potter and the Chamber of Secrets|Harry Potter and the Prisoner of Azkaban
+2019-06-23,608,3,35.23,FALSE,Jackie Tucci,50,The Iliad|The Odyssey|Oedipus Rex
+2019-06-27,609,1,4.01,FALSE,Kelly Zavala,21,The Da Vinci Code
+2019-06-30,610,2,19.43,TRUE,Michael Jones,35,Pride and Prejudice|War and Peace
